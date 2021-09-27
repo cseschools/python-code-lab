@@ -1,0 +1,5 @@
+print("My Address is")
+print("Street: 123 BLVD")
+print("Police Station: XYZ")
+print("State: ABC")
+print("Country:USA")

@@ -1,0 +1,5 @@
+print("My Name is John Todd")
+print("My Father Name is Todd")
+print("My Mother Name is Jeny")
+print("My Mobile no is 123456")
+print("My Address is USA")
